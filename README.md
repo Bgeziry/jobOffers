@@ -25,3 +25,5 @@ Things you may want to cover:
 
 Did This App which adds and show jobs for memorizing with the help of this URL:
 https://medium.com/@riklomas/how-to-create-a-simple-jobs-board-in-ruby-on-rails-even-if-youve-never-coded-before-9b296c4df483
+
+clone the app to see it and please do not forget to run rake db:migrate before you run 
